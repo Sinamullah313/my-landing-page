@@ -1,12 +1,12 @@
 /* Global styles */
 * {
-  margin: 2px;
-  padding: 2px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Arial", sans-serif;
+  font-family: blue black;
   background-color: #e8f9f2;
   color: #333; 
   line-height: 1.6;
